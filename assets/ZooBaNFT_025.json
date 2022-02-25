@@ -1,0 +1,21 @@
+{
+    "tokenId": 25,
+    "name":	"Earl #025",
+    "description":	"Hiding in the metaverse",
+    "image":	"TODO",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Male"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Polite Grappler"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Crab"
+        }
+    ]
+}

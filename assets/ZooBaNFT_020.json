@@ -1,0 +1,21 @@
+{
+    "tokenId": 20,
+    "name":	"Iris #020",
+    "description":	"Hiding in the metaverse",
+    "image":	"TODO",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Female"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Poisonous Stalker"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Cobra"
+        }
+    ]
+}
